@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>16.jpg</filename>
+	<path>D:\Noise\test\16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>755</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lumbar scoliosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>123</ymin>
+			<xmax>352</xmax>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>
