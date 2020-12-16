@@ -1,0 +1,26 @@
+<annotation>
+	<folder>add-gaussian</folder>
+	<filename>7.jpg</filename>
+	<path>D:\add-gaussian\7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>843</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lumbar scoliosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>55</ymin>
+			<xmax>439</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>
